@@ -1,4 +1,4 @@
 # IDF 
-Как открыть: diagrams.net -> GitHub -> Открыть существующую диаграмму -> IDF0
+Как открыть: GitHub -> IDF0 -> Download ZIP -> Diagrams.net
 
 Выполнил: Тимофеев Глеб 
